@@ -1,0 +1,73 @@
+name: faroe_islands_wallpapers
+description: A Wallpaper Set from Faroe Islands.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  flutter_screenutil: ^2.3.1
+  wallpaper_manager: ^1.0.10
+  fluttertoast: ^7.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/wp/001.jpg
+    - assets/wp/002.jpg
+    - assets/wp/003.jpg
+    - assets/wp/004.jpg
+    - assets/wp/005.jpg
+    - assets/wp/006.jpg
+    - assets/wp/007.jpg
+    - assets/wp/008.jpg
+    - assets/wp/009.jpg
+    - assets/wp/010.jpg
+    - assets/wp/011.jpg
+    - assets/wp/012.jpg
+    - assets/wp/013.jpg
+    - assets/wp/014.jpg
+    - assets/wp/015.jpg
+    - assets/wp/016.jpg
+    - assets/wp/017.jpg
+    - assets/wp/018.jpg
+    - assets/wp/019.jpg
+    - assets/wp/020.jpg
+    - assets/wp/021.jpg
+    - assets/wp/022.jpg
+    - assets/wp/023.jpg
+    - assets/wp/024.jpg
+    - assets/wp/025.jpg
+    - assets/wp/026.jpg
+    - assets/wp/027.jpg
+    - assets/wp/028.jpg
+    - assets/wp/029.jpg
+    - assets/wp/030.jpg
+    - assets/wp/031.jpg
+    - assets/wp/032.jpg
+    - assets/wp/033.jpg
+    - assets/wp/034.jpg
+    - assets/wp/035.jpg
+    - assets/wp/036.jpg
+    - assets/wp/037.jpg
+    - assets/wp/038.jpg
+    - assets/wp/039.jpg
+    - assets/wp/040.jpg
+    - assets/wp/041.jpg
+    - assets/wp/042.jpg
+    - assets/wp/043.jpg
+    - assets/wp/044.jpg
+    - assets/wp/045.jpg
+    - assets/wp/046.jpg
+    - assets/wp/047.jpg
+    - assets/wp/048.jpg
+    - assets/wp/049.jpg
+    - assets/wp/050.jpg
+    - assets/wp/051.jpg
